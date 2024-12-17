@@ -4,10 +4,6 @@ Feature discovery package
 
 ## Getting Started
 
-Sure! Here's a GitHub README file that includes detailed information about your `WalkthroughWidget` implementation:
-
----
-
 # Walkthrough Widget for Flutter
 
 A flexible and customizable Flutter widget designed to display overlay walk_throughs or tutorials. This widget allows you to highlight specific areas of the app, guiding users through important features with informative step-by-step tutorials. The widget automatically adjusts its position and appearance based on the screen layout, ensuring a smooth and intuitive onboarding experience.
@@ -36,8 +32,8 @@ dependencies:
     
   feature_walkthrough:
     git:
-      url: https://github.com/xxxxxx # repo url
-      ref: main # branch name
+      url: https://github.com/xxxxxx # repo url](https://github.com/Molterous/feature_walkthrough.git
+      ref: master # branch name
 ```
 
 ---
